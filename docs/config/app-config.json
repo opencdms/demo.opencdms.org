@@ -3,6 +3,7 @@
     "apis": [
       { "name": "demo api", "base": "api.opencdms.org", "default": true }
     ],
+    "autoHide": false,
     "defaultLanguage": "en-EN",
     "mode": 0
   },
@@ -10,6 +11,7 @@
       "apis": [
         { "name": "Kenya volunteer stations", "base": "api-latest.opencdms.org", "default": true }
       ],
+      "autoHide": true,
       "defaultLanguage": "en-EN",
       "mode": 1
   }
